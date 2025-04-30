@@ -1,6 +1,6 @@
 # 🛡️ Transaction Audit and Fraud Detection Platform
 
-This is a Spring Boot-based backend system that simulates a real-time financial transaction logging and fraud detection engine. The project is designed to mirror some of the use cases in financial institutions like BNY Mellon — providing secure, auditable, and rule-based monitoring for financial transactions.
+This is a Spring Boot-based backend system that simulates a real-time financial transaction logging and fraud detection engine. The project is designed to mirror some of the use cases in financial institutions — providing secure, auditable, and rule-based monitoring for financial transactions.
 
 ---
 
